@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Debian Chinese Team <chinese-developers@lists.alioth.debian.org>
 Uploaders: Aron Xu <aron@debian.org>, YunQiang Su <wzssyqa@gmail.com>
 DM-Upload-Allowed: yes
-Build-Depends: debhelper (>= 7.0.50~), python (>= 2.6.6-3~)
+Build-Depends: debhelper (>= 8), python (>= 2.6.6-3~)
 Standards-Version: 3.9.2
 Homepage: http://code.google.com/p/gmbox/
 Vcs-git: git://git.debian.org/git/chinese/gmbox.git
