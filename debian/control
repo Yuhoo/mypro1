@@ -1,0 +1,22 @@
+Source: gmbox
+Section: contrib/sound
+Priority: optional
+Maintainer: Debian Chinese Team <chinese-developers@lists.alioth.debian.org>
+Uploaders: Aron Xu <aron@debian.org>, YunQiang Su <wzssyqa@gmail.com>
+DM-Upload-Allowed: yes
+Build-Depends: debhelper (>= 7.0.50~), python (>= 2.6.6-3~)
+Standards-Version: 3.9.2
+Homepage: http://code.google.com/p/gmbox/
+Vcs-git: git://git.debian.org/git/chinese/gmbox.git
+Vcs-Browser: http://git.debian.org/?p=chinese/gmbox.git
+
+Package: gmbox
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}, python-gtk2
+Description: google.cn music box
+ This program can download and play music from music.google.cn using
+ internal or external applications (such as wget for download and mplayer
+ for playing, and of course you can set parameters).
+ .
+ music.google.cn is a service provided by Google China and the service
+ is available and legal only in China mainland.
