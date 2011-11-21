@@ -1,0 +1,24 @@
+gmbox (0.4+svn258-1) unstable; urgency=low
+
+  * New Upstream Beta release.
+  * rename googlemusic to libgmbox, so we install it to pyshared.
+  * bump to dh_python2.
+
+ -- YunQiang Su <wzssyqa@gmail.com>  Wed, 10 Aug 2011 13:14:34 +0800
+
+gmbox (0.4+svn237-1) unstable; urgency=low
+
+  * New Upstream Commit:
+  	- googlemusic/core.py: update flashplayer_key
+  * Fix link of pixmaps: lost "data" from source
+  * debian/control:
+       - add DMUA
+       - Vcs-Git -> Vcs-git ; anonscm.debian.org -> git.debian.org
+
+ -- YunQiang Su <wzssyqa@gmail.com>  Fri, 1 Jul 2011 18:31:21 +0800
+
+gmbox (0.4+svn236-1) unstable; urgency=low
+
+  * Initial release (Closes: #630191).
+
+ -- Aron Xu <aron@debian.org>  Wed, 22 Jun 2011 22:45:21 +0800

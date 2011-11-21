@@ -1,0 +1,39 @@
+This work was packaged for Debian by:
+
+    Aron Xu <aron@debian.org> on Wed, 22 Jun 2011 22:45:21 +0800
+
+It was downloaded from:
+
+    http://code.google.com/p/gmbox/
+
+Upstream Authors:
+
+    bones7456 <bones7456@gmail.com>
+    muzuiget <muzuiget@gmail.com>
+    xioooli <xioooli@gmail.com>
+    darling8611 <darling8611@gmail.com>
+    amoblin <amoblin@gmail.com>
+    Tualatrix <tualatrix@gmail.com>
+    adi4no <adi4no@gmail.com>
+    hanyiny <hanyiny@gmail.com>
+    lerosua <lerosua@gmail.com>
+
+Copyright:
+
+    (C) 2010-2011 All authors and contributors.
+
+The software itself is licensed under GPL-3.
+
+Some files under data/pixbufs/ are licensed under LGPL-2.1 by
+GTK+ team, they are: directory.png, error.png, info.png,
+refresh.png, song.png, songlist.png.
+
+
+The Debian packaging is:
+
+    Copyright (C) 2011 Aron Xu <aron@debian.org>
+
+and is licensed under the GPL version 3,
+see "/usr/share/common-licenses/GPL-3".
+
+For LGPL-2.1, see "/usr/share/common-licenses/LGPL-2.1".

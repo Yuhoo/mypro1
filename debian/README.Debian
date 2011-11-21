@@ -1,0 +1,9 @@
+gmbox for Debian
+----------------
+
+GMbox is based on the service provided by music.google.cn, the program
+itself is totally free software but the service is only available and
+legal in China mainland. Please don't use the service if you are not in
+the region.
+
+ -- Aron Xu <aron@debian.org>  Thu, 09 Jun 2011 17:24:01 +0800

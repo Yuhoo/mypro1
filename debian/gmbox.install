@@ -1,0 +1,5 @@
+*.py usr/share/gmbox/
+gmbox/* usr/share/gmbox/gmbox
+libgmbox/* usr/share/pyshared/libgmbox
+data/* usr/share/gmbox/data
+debian/gmbox.desktop usr/share/applications
